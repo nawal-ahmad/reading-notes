@@ -5,9 +5,9 @@
 In a simple words it's an expression used to describe the character that has the potentail to develop and improve skills continuously
 
 ### Growth Mindest Quotes:
-* "Great works are performed, not by strength, but by perseverance." -- Samuel Johnson.
-* "You may have to fight a battle more than once to win it." -- Margaret Thatcher.
-* "Anyone who has never made a mistake has never tried anything new." -- Albert Einstein
+* "Great works are performed, not by strength, but by perseverance."  _Samuel Johnson_
+* "You may have to fight a battle more than once to win it."  _Margaret Thatcher_
+* "Anyone who has never made a mistake has never tried anything new."  _Albert Einstein_
 
 These steps below will help to keep yourself in a growth mindset:
 1. Think positively about the challenges
