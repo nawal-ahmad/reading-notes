@@ -1,9 +1,9 @@
-#reading-notes
+# reading-notes
 
 # Growth Mindest
 In a simple words it's an expression used to describe the character that has the potentail to develop and improve skills continuously
 
-##Growth Mindest Quotes:
+## Growth Mindest Quotes:
 * "Great works are performed, not by strength, but by perseverance." -- Samuel Johnson.
 * "You may have to fight a battle more than once to win it." -- Margaret Thatcher.
 * "Anyone who has never made a mistake has never tried anything new." -- Albert Einstein
