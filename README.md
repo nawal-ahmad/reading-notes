@@ -1,9 +1,6 @@
 # reading-notes
 
-This is Nawal Ahmad, I'm a Biomedical Engineer and I'm looking forward to become a software developer, I'll talk about **Growth Mindest** in my first web page.
-[My GitHub portfolio page](https://github.com/nawal-ahmad)
-
-### Growth Mindest:
+# Growth Mindest:
 In a simple words it's an expression used to describe the character that has the potentail to develop and improve skills continuously
 
 These steps below will help to keep yourself in a growth mindset:
@@ -12,3 +9,7 @@ These steps below will help to keep yourself in a growth mindset:
 3. Learn from other people's successes and failures
 
 ![Growth Mindest](https://images-na.ssl-images-amazon.com/images/I/71uyWFRtsoL._AC_SL1500_.jpg)
+
+By:
+ [Nawal Ahmad](https://github.com/nawal-ahmad, Biomedical Engineer and looking forward to become a software developer.
+
