@@ -1,5 +1,3 @@
-# reading-notes
-
 # Growth Mindest:
 In a simple words it's an expression used to describe the character that has the potentail to develop and improve skills continuously
 
@@ -11,5 +9,5 @@ These steps below will help to keep yourself in a growth mindset:
 ![Growth Mindest](https://images-na.ssl-images-amazon.com/images/I/71uyWFRtsoL._AC_SL1500_.jpg)
 
 By:
- [Nawal Ahmad](https://github.com/nawal-ahmad, Biomedical Engineer and looking forward to become a software developer.
+ [Nawal Ahmad](https://github.com/nawal-ahmad), Biomedical Engineer and looking forward to become a software developer.
 
