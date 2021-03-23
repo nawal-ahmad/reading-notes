@@ -1,4 +1,6 @@
-# Growth Mindest:
+#reading-notes
+
+# Growth Mindest
 In a simple words it's an expression used to describe the character that has the potentail to develop and improve skills continuously
 
 These steps below will help to keep yourself in a growth mindset:
