@@ -1,4 +1,4 @@
- Read: 01 - The Coder's Computer
+# Read: 01 - The Coder's Computer
 
 Linux has a graphical user interface and it works pretty much like the GUI's on other systems that you are familiar with such as Windows .
 
