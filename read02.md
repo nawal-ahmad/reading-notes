@@ -1,6 +1,7 @@
-Markdown is an easy way to use syntax for styling all forms of writing and controlling the display of the document on the GitHub platform.
-
  Read: 02a - Learning Markdown
+
+
+Markdown is an easy way to use syntax for styling all forms of writing and controlling the display of the document on the GitHub platform.
 
 We have many simple way on GitHub to make the format we need by using this symbol *, _ ,[], and /, ex:
 
