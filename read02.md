@@ -1,4 +1,4 @@
- Read: 02a - Learning Markdown
+# Read: 02a - Learning Markdown
 
 
 Markdown is an easy way to use syntax for styling all forms of writing and controlling the display of the document on the GitHub platform.
@@ -9,7 +9,7 @@ to make text bold: **Text**
 
 to make text italic __Text__ and other styles
 
-Read: 02b - Revisions and the Cloud
+# Read: 02b - Revisions and the Cloud
 
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 
