@@ -1,5 +1,6 @@
 # Read: 03 - Structure web pages with HTML
 
+
 Chapter 18 (Process & Design) notes:
 
 * Determine the target audience and the information
@@ -24,11 +25,10 @@ HTML layout main elements:
 
 Chapter 8 (Extra Markup) notes:
 
-1. DOCTYPES tell browsers which version of HTML is being used.
-2. comments can be added between the <!-- and --> markers.
-3. id and class attributes allow identifying particular elements.
-4. <div> and <span> elements allow grouping block-level and inline elements together.
-5. <meta> tag allows supplying all kinds of
-information.
-6. Escape characters are used to include special
+* DOCTYPES tell browsers which version of HTML is being used.
+* comments can be added between the <!-- and --> markers.
+* id and class attributes allow identifying particular elements.
+* <div> and <span> elements allow grouping block-level and inline elements together.
+* <meta> tag allows supplying all kinds of information.
+* Escape characters are used to include special
 characters such as ©.
