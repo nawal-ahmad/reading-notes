@@ -19,6 +19,6 @@ Git used to make:
 
 2. tracking changes
 
-3.minimize loss of data
+3. minimize loss of data
 
 Files in Git can reside in three main states: committed, modified and staged.
