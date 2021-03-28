@@ -1,7 +1,7 @@
 # Read: 03 - Structure web pages with HTML
 
 
-Chapter 18 (Process & Design) notes:
+## Chapter 18 (Process & Design) notes:
 
 * Determine the target audience and the information
 they want.
@@ -10,7 +10,7 @@ they want.
 * Design is important for making communication easier.
 * using size, color, and style to differentiate between page parts.
 
-Chapter 17 (HTML Layout) notes:
+## Chapter 17 (HTML Layout) notes:
 
 HTML layout elements indicate the purpose of
 different parts of a web page and help to describe
@@ -23,7 +23,7 @@ HTML layout main elements:
 * asides
 * footer
 
-Chapter 8 (Extra Markup) notes:
+## Chapter 8 (Extra Markup) notes:
 
 * DOCTYPES tell browsers which version of HTML is being used.
 * comments can be added between the <!-- and --> markers.
