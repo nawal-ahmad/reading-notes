@@ -8,11 +8,8 @@
 
 - Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used in logical statements to determine equality or difference between variables or values.
 
-- Logical operators are used to determine the logic between variables or values.
-|-----| ----|
-|And  |&&   |     
-|Or   |||   |
-|Not  |!    |
+- Logical operatorsb are used to determine the logic between variables or values.
+
 
 ### JavaScript Loops
 
