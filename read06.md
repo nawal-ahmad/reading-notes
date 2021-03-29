@@ -27,3 +27,10 @@
 - The rgba() function define colors using the Red-green-blue-alpha (RGBA) model, where is alpha defines the opacity as a number between 0.0 (fully transparent) and 1.0 (fully opaque).
 
 - The hsla() function define colors using the Hue-saturation-lightness-alpha model (HSLA).
+  - Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue.
+
+  - Saturation is a percentage value, 0% means a shade of gray, and 100% is the full color.
+
+  - Lightness is also a percentage, 0% is black, 50% is neither light or dark, 100% is white
+
+
