@@ -1,4 +1,4 @@
-Read: 06 - Design web pages with CSS
+# Read: 06 - Design web pages with CSS
 
 ### What is a function?
 
