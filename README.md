@@ -1,9 +1,9 @@
 # reading-notes
 
 
-### This is Nawal Ahmad, I am a biomedical engineer, Recently I planned to make a career shift and entering software development world.
+## This is Nawal Ahmad, I am a biomedical engineer, Recently I planned to make a career shift and entering software development world.
 
-### below my read notes:
+### below my daily read notes:
 
 |Assignment     | Link                   |
 |----------     | -----------------------|
@@ -12,3 +12,4 @@
 |read03         |[read03](read03.md)     |
 |read04         |[read04](read04.md)     |
 |read05         |[read05](read05.md)     |
+|read06         |[read06](read06.md)     |
