@@ -12,7 +12,7 @@
 |read03         |[read03](read03.md)     |
 |read04         |[read04](read04.md)     |
 |read05         |[read05](read05.md)     |
-|read66         |[read06](read06.md)     |
+|read06         |[read06](read06.md)     |
 
 
 
@@ -20,9 +20,10 @@
 
 |Assignment     | Link                   |
 |----------     | -----------------------|
-|read01         |[read01](read01.md)     |
-|read02         |[read02](read02.md)     |
-|read03         |[read03](read03.md)     |
-|read04         |[read04](read04.md)     |
-|read05         |[read05](read05.md)     |
-|read06         |[read06](read06.md)     |
+|class-01       |[class-01](class-01.md) |
+|class-02       |[class-02](class-02.md) |
+|class-03       |[class-03](class-03.md) |
+|class-04       |[class-04](class-04.md) |
+|class-05       |[class-05](class-05.md) |
+|class-06       |[class-06](class-06.md) |
+|class-07       |[class-07](class-07.md) |
