@@ -1,5 +1,6 @@
 # Read: 01 - Introductory HTML and JavaScript
 
+## Duckett HTML book:
 ### HTML Chapter 1: “Structure”
 
 - HTML main structure is head and body.
@@ -56,3 +57,38 @@ We need to know who is the site for and why people visit the websiteand what the
 - Wireframes is important to organize the information.
 - grouping help simplify and format the information.
 - Design is important for making the user interface friendly.
+
+## Duckett JS book:
+
+### Introduction
+- JavaScript could make the web page more attractive by access and modify content.
+- JavaScript encompasses many of program rules and its make thw web page interactive with user.
+
+### JS Chapter 1: “The ABC of Programming”
+
+#### What is script and how to create one?
+- A script is a series of instructions to acheive a speceific goal.
+- To write a script, first we state the goal then list the needed tasks to it. 
+  1. Define the goal
+  2. Design the script
+  3. Code each step
+
+#### How do computers fit in with the world around them?
+- Computers create models of the world using data
+- Represent things as objects(intance and instances), each objects have it's own property, events and methods. 
+- Represent chracteristics as properties, each property has a name and a value.
+- Choose which objects respond when a specefic event happens.
+- Specify the actions that can be performed on objects which called methods.
+- Create a model e(vents can trigger methods, and methods can retrieve or update an object's properties.)
+
+#### How a browser sees a web page?
+1. receive a page as HTML code.
+2. Create a model of the page and store in the memory.
+3. Use a rendering engine to shoe the page on scrrn.
+
+#### How do I write a script for a web page?
+By using these three language and linkthem together:
+1. HTML:for Content
+2. CSS: for Presentation
+3. JavaScript: for Behavior
+
