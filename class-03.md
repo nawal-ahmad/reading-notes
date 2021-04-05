@@ -58,6 +58,5 @@ studentNames= ['Ahmad','Khaled','Ali'];
 let i = 1;
 const n = 5;
 do {console.log(i);i++;} 
-while(i <= n);
-
- ````````
+while(i <= n); 
+````````
