@@ -54,9 +54,9 @@ studentNames= ['Ahmad','Khaled','Ali'];
     - while run the code as long as the condition is true.
     - do/while run the code then check if the condition is true then repeat the loop.
 - do-while example:
-````````
+```````````
 let i = 1;
 const n = 5;
 do {console.log(i);i++;} 
 while(i <= n); 
-````````
+````````````
