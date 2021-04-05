@@ -97,3 +97,5 @@ By controlling the design through using CSS.
   * __!__ logical not  
 - If statement: to specify a block of JavaScript code to be executed if a condition is true.
 - else statement: o specify a block of code to be executed if the condition is false. 
+- The switch statement executes a block of code depending on different cases.
+
