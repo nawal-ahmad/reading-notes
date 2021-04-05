@@ -97,7 +97,7 @@ By controlling the design through using CSS.
 - Logical operators:
   * `&&` logical and
   * `||` logical or
-  * `__!__` logical not  
+  * `!` logical not  
 - If statement: to specify a block of JavaScript code to be executed if a condition is true.
 - else statement: o specify a block of code to be executed if the condition is false. 
 - The switch statement executes a block of code depending on different cases.
