@@ -5,10 +5,10 @@
 ### Chapter 3: “Lists” 
 
 ##### Types of the lists:
-1. **ol** ordered lists which used numbers 
-2. **ul** unordered lists which used bullets 
-3. **dl** defintion lists which contains the term and the definition 
-4. nested lists second list in li element
+1. `<ol>` ordered lists which used numbers 
+2. `<ul>` unordered lists which used bullets 
+3. `<dl>` defintion lists which contains the term and the definition 
+4. nested lists second list in `<li>` element
 
 ### Chapter 13: “Boxes” 
 
@@ -36,10 +36,13 @@
 ### Chapter 2: “Basic JavaScript Instructions”
  
 - Array: It's a special type of variable stores a list of values. 
-  example: 
-      var studentName; 
-      studentNames= ['Ahmad','Khaled','Ali'];
+  example:
+   
+```
+var studentName; 
+studentNames= ['Ahmad','Khaled','Ali'];
 
+```
 
 ### Chapter 4: “Decisions and Loops”
 
@@ -51,9 +54,10 @@
     - while run the code as long as the condition is true.
     - do/while run the code then check if the condition is true then repeat the loop.
 - do-while example:
-    let i = 1;
-    const n = 5;
-    do {
-        console.log(i);
-        i++;
-    } while(i <= n);
+```
+let i = 1;
+const n = 5;
+do {console.log(i);i++;} 
+while(i <= n);
+
+```
