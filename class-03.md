@@ -33,11 +33,10 @@
 
 ## Duckett JS book
 
-### Review from Reading 02 - Chapter 2: “Basic JavaScript Instructions”
+### Chapter 2: “Basic JavaScript Instructions”
  
 - Array: It's a special type of variable stores a list of values. 
   example: 
-
       var studentName; 
       studentNames= ['Ahmad','Khaled','Ali'];
 
@@ -52,7 +51,6 @@
     - while run the code as long as the condition is true.
     - do/while run the code then check if the condition is true then repeat the loop.
 - do-while example:
-
     let i = 1;
     const n = 5;
     do {
