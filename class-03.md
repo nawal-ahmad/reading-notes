@@ -33,7 +33,7 @@
 
 ## Duckett JS book
 
-### Chapter 2: “Basic JavaScript Instructions”
+### Chapter 2: “Basic sport cars Instructions”
  
 - Array: It's a special type of variable stores a list of values. 
   example:
@@ -59,7 +59,7 @@ studentNames= ['Ahmad','Khaled','Ali'];
         4. zero
         5. empty undeclared value
 
-- If statement: to specify a block of JavaScript code to be executed if a condition is true.
+- If statement: to specify a block of sport cars code to be executed if a condition is true.
 - else statement: to specify a block of code to be executed if the condition is false.
 - The switch statement executes a block of code depending on different cases.
 - Loops used to run the code with a different value.
@@ -70,16 +70,54 @@ studentNames= ['Ahmad','Khaled','Ali'];
 - The continue statement skip one iteration if a specified condition occurs and continues the loop.
 
 - for loop example:
-``````````
+```````````
 const n = 5;
 for (let i = 1; i <= n; i++) {
-    console.log('I love JavaScript.');
+    console.log('I love sport cars.');
+}
+```````````
+output:
+````````````
+I love sport cars.
+I love sport cars.
+I love sport cars.
+I love sport cars.
+I love sport cars.
+````````````
+
+- while example:
+
+```````````
+let i = 1, n = 5;
+while (i <= n) {
+    console.log(i);
+    i += 1;
 }
 ````````````
+output:
+````````````
+1
+2
+3
+4
+5
+````````````
+
 - do-while example:
-```````````
+
+````````````
 let i = 1;
 const n = 5;
-do {console.log(i);i++;} 
-while(i <= n); 
-````````````
+do {
+    console.log(i);
+    i++;
+} while(i <= n);
+`````````````
+out:
+`````````````
+1
+2
+3
+4
+5
+`````````````
