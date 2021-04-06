@@ -62,7 +62,7 @@ studentNames= ['Ahmad','Khaled','Ali'];
 - If statement: to specify a block of sport cars code to be executed if a condition is true.
 - else statement: to specify a block of code to be executed if the condition is false.
 - The switch statement executes a block of code depending on different cases.
-- Loops used to run the code with a different value.
+- Loops used to run the code with a different values.
     - for loops run a code for number of times
     - while run the code as long as the condition is true.
     - do/while run the code then check if the condition is true then repeat the loop.
