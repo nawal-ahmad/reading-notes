@@ -46,13 +46,36 @@ studentNames= ['Ahmad','Khaled','Ali'];
 
 ### Chapter 4: “Decisions and Loops”
 
+- Every value in JavaScript can be treated as if it were true or false
+    - Truthy values include: 
+        1. any string with content
+        2. any number except zero
+        3. true boolean value
+        4. number calculations
+    - Falsy values include:
+        1. NAN not a number
+        2. undefind
+        3. false boolean value
+        4. zero
+        5. empty undeclared value
+
 - If statement: to specify a block of JavaScript code to be executed if a condition is true.
-- else statement: o specify a block of code to be executed if the condition is false.
+- else statement: to specify a block of code to be executed if the condition is false.
 - The switch statement executes a block of code depending on different cases.
 - Loops used to run the code with a different value.
     - for loops run a code for number of times
     - while run the code as long as the condition is true.
     - do/while run the code then check if the condition is true then repeat the loop.
+- The break statement ends the loop.
+- The continue statement skip one iteration if a specified condition occurs and continues the loop.
+
+- for loop example:
+``````````
+const n = 5;
+for (let i = 1; i <= n; i++) {
+    console.log('I love JavaScript.');
+}
+````````````
 - do-while example:
 ```````````
 let i = 1;
