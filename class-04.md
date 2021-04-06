@@ -2,7 +2,7 @@
 
 ## Duckett HTML book:
 
-### Chapter 4: Ch.4 “Links”
+### Chapter 4: “Links”
 
 - Links allow users to move from page to page in the same site or to other sites.
 ````````
