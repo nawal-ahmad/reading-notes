@@ -52,10 +52,12 @@
 let square = function (num) 
 {return num*num};
 console.log(square(4));
+`````````
 
+```````
 Output:
 16
-`````````
+```````
 ### 6 Reasons for Pair Programming
 
 - pair programming: is a practice of two developers sharing a single workstation.
