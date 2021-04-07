@@ -18,12 +18,11 @@
 
 ### Code 201 Reading Notes:
 
-|Assignment     | Link                   |
-|----------     | -----------------------|
-|class-01       |[class-01](class-01.md) |
-|class-02       |[class-02](class-02.md) |
-|class-03       |[class-03](class-03.md) |
-|class-04       |[class-04](class-04.md) |
-|class-05       |[class-05](class-05.md) |
-|class-06       |[class-06](class-06.md) |
-|class-07       |[class-07](class-07.md) |
+|Assignment     | Link                                                                         |
+|----------     | -----------------------------------------------------------------------------|
+|class-01       |[Introductory HTML and JavaScript](class-01.md)                               |
+|class-02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md) |
+|class-03       |[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)                         |
+|class-04       |[HTML Links, CSS Layout, JS Functions](class-04.md)                           |
+|class-05       |[HTML Images; CSS Color & Text](class-05.md)                                  |
+
