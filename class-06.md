@@ -37,27 +37,27 @@ console.log(user.getName());
 - The dom tree is a model of a web page
 
 - DOM trees have four types of nodes:
-  - document nodes represent the entire HTML page
-  - element nodes describe the structure of HTML page
-  - attribute nodes
-  - text nodes
+      - document nodes represent the entire HTML page
+      - element nodes describe the structure of HTML page
+      - attribute nodes
+      - text nodes
 
-    [Dom trees](!SOFTWARE-DEVELOPMENT-DOM-Tree-DOM-Hierarchy-in-HTML88.png)
+![Dom trees](SOFTWARE-DEVELOPMENT-DOM-Tree-DOM-Hierarchy-in-HTML88.png)
 
 - Methods that find element in dom tree are called DOM queries.
 
 - Methods that return a single elements:
-    - getElementById('id'): method returns the elements with specified tag name, as a NodeList object.
-    - querySelector('css selector): method returns the first child element that matches a specified CSS selector(s) of an element.
-    - document.getElementById('one')
+      - getElementById('id'): method returns the elements with specified tag name, as a NodeList object.
+      - querySelector('css selector): method returns the first child element that matches a specified CSS selector(s) of an element.
+      - document.getElementById('one')
 
 - Methods that return on or more elements:
-    - getElementByClassName('class): Returns a collection of all child elements with the specified class name
-    - getElementByTagName('tagName'): Returns a collection of all child elements with the specified tag name
-    - querySelectorAll('css selector): 	Returns all child elements that matches a specified CSS selector(s) of an element
+      - getElementByClassName('class): Returns a collection of all child elements with the specified class name
+      - getElementByTagName('tagName'): Returns a collection of all child elements with the specified tag name
+      - querySelectorAll('css selector): 	Returns all child elements that matches a specified CSS selector(s) of an element
 
 - Selecting An elements from a : require the index number of the element you want
-    - The item() method
+      - The item() method
    ``````````
    var elements = document.getElementsByClassName('hot') 
    if (elements.length>= 1) { 
@@ -65,7 +65,7 @@ console.log(user.getName());
    } 
    ``````````
 
-    - Array syntax: faster than item() method
+      - Array syntax: faster than item() method
    ```````````
      var elements = document.getElementsByClassName('hot') 
    if (elements.length>= 1) { 
@@ -88,8 +88,8 @@ console.log(user.getName());
   ```````````
 
 - Adding or removing HTML content:
-    - inner HTML property 
-    - DOM manipulation
+      - inner HTML property 
+      - DOM manipulation
 
 - Attribute Nodes:use the properties and methods to access and change attributes.
 
