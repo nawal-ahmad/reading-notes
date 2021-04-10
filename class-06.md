@@ -42,7 +42,7 @@ console.log(user.getName());
   - attribute nodes
   - text nodes
 
-    [Dom trees](SOFTWARE-DEVELOPMENT-DOM-Tree-DOM-Hierarchy-in-HTML88.png)
+    [Dom trees](!SOFTWARE-DEVELOPMENT-DOM-Tree-DOM-Hierarchy-in-HTML88.png)
 
 - Methods that find element in dom tree are called DOM queries.
 
