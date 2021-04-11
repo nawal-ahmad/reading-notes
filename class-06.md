@@ -41,7 +41,7 @@ delete user.lastName //deleting
 
 ### Chapter 5: “Document Object Model”
 
-- The dom tree is a model of a web page
+- The dom tree is a model of a web page (Entire HTML page)
 
 - DOM trees have four types of nodes:
    - document nodes represent the entire HTML page

@@ -26,4 +26,5 @@
 |class-04       |[HTML Links, CSS Layout, JS Functions](class-04.md)                           |
 |class-05       |[HTML Images; CSS Color & Text](class-05.md)                                  |
 |class-06       |[JS Object Literals; The DOM](class-06.md)                                    |
+|class-07       |[HTML Tables; JS Constructor Functions](class-07.md)                          |
 
