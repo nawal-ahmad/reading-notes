@@ -7,6 +7,9 @@
 ##### WHAT is an object? 
 - a series of variables and functions that represent something 
 - In the object the variables are known as properties and the functions are known as methods. 
+- We can access the pobject properties in two ways:
+      1. Dotnotation
+      2. Bracketnotation
 
 ````````````````
   var user = {
@@ -14,8 +17,9 @@
      lastName: "Ahmad",
      dateOfBirth: 1991  
   };
-  console.log(user);
-// {firstName: "Nawal", lastname: "Ahmad", dateOfBirth: 1991}
+  console.log(user.firstName); //dotnotation
+  console.log(user[firstName]); // bracketnotation
+
 ````````````````
 
 ````````````````
@@ -30,9 +34,12 @@ var user = {
 console.log(user.getName());
 // User's name: Nawal Ahmad
 ````````````````
+- We can add and delete property:
+user.car=BMW, //adding
+delete user.lastName //deleting
 
 
-### Chapter 5: “Document Object Model” (pp.183-242)
+### Chapter 5: “Document Object Model”
 
 - The dom tree is a model of a web page
 
