@@ -20,7 +20,7 @@
 - Layout types:
     - [Fixed-width layout ](http://www.htmlandcssbook.com/code-samples/chapter-15/fixed-width-layout.html)
     - [Liquid layout](http://www.htmlandcssbook.com/code-samples/chapter-15/liquid-layout.html)
-    -[Grid Layout](http://www.htmlandcssbook.com/code-samples/chapter-15/grid-layout.html)
+    - [Grid Layout](http://www.htmlandcssbook.com/code-samples/chapter-15/grid-layout.html)
 - HTML can include multiple CSS files in one page.
 
 - z-index attribute is used when overlapping to control which element is on the top of the other element by setting a value for this z-index, the higher the number the closer the element to the front.
