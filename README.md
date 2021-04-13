@@ -28,4 +28,4 @@
 |class-06       |[JS Object Literals; The DOM](class-06.md)                                    |
 |class-07       |[HTML Tables; JS Constructor Functions](class-07.md)                          |
 |class-08       |[More CSS Layout](class-08.md)                                                |
-
+|class-09       |[Forms and Events](class-09.md)                                                |
