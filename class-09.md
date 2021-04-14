@@ -4,7 +4,7 @@
 
 ### Chapter 7: “Forms”
 
-- Forms used to collect user input that mostky sent to a server for processing.
+- Forms used to collect user input that mostly sent to a server for processing.
 
 - The `<form>` element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons.
 
