@@ -83,8 +83,8 @@ By controlling the design through using CSS.
 
 - Conditional statements allow the code to make decisions about what to do next. 
 - There are two components to a dcision:
-  1.An expression is evaluated which retuen value.
-  2.A conditional statement says what to do in a given situation.
+    1. An expression is evaluated which retuen value.
+    2. A conditional statement says what to do in a given situation.
 - Comparison operators: 
   * == equual to
   * != not equal to

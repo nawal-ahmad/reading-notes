@@ -38,7 +38,7 @@
 - Layout types:
     - [Fixed-width layout ](http://www.htmlandcssbook.com/code-samples/chapter-15/fixed-width-layout.html)
     - [Liquid layout](http://www.htmlandcssbook.com/code-samples/chapter-15/liquid-layout.html)
-    -[Grid Layout](http://www.htmlandcssbook.com/code-samples/chapter-15/grid-layout.html)
+    - [Grid Layout](http://www.htmlandcssbook.com/code-samples/chapter-15/grid-layout.html)
 - HTML can include multiple CSS files in one page.
 
 ## the Duckett JS book

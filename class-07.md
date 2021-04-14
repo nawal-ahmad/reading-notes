@@ -44,36 +44,38 @@ var person = {
   - Document object model (objects to represent the current page)
   - Global JavaScript objects 
 
-  ![Built-in objects](file__1_.png)
+- Built-in Objects
+
+     ![Built-in](Images/DOM.png)
 
 
 - The browser object model:
 
-      ![The window object](444.png)
+    ![The window object](Images/browser.png)
 
 
 - The document object model:
 
-      ![DOM](1111.png)
+    ![DOM](Images/document.png)
 
 
 - Global string object:
 
-      ![Global string](11111.png)
+    ![Global string](Images/stringMethod.png)
 
 
 - Global number object:
 
-      ![Global number](55.png)
+    ![Global number](Images/methods.png)
 
 
 - Global math object:
 
-      ![Global math](44.png)
+    ![Global math](Images/mathmethod.png)
 
 
 - Global date object:
 
-    ![Global date](77.png)
+    ![Global date](Images/date.png)
 
 

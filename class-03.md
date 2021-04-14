@@ -19,7 +19,10 @@
     - Border which goes around the padding and content
     - Margin thw area outside the border.
 - Padding and margin are transparent
-![Box Parts](R0c150fee87c95feb6aa4665012605450.png "Box")
+
+  ![Box Parts](Images/margin.png "Box")
+
+  
 - We can change border width, style and color.
 - display property specifies the display behavior of each element.
 - display values could be:

@@ -49,7 +49,7 @@ delete user.lastName //deleting
    - attribute nodes
    - text nodes
 
-![Dom trees](SOFTWARE-DEVELOPMENT-DOM-Tree-DOM-Hierarchy-in-HTML88.png)
+ ![Dom trees](Images/DOMtree.jpeg)
 
 - Methods that find element in dom tree are called DOM queries.
 
