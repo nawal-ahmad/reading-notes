@@ -26,6 +26,12 @@ When JavaScript statement generates an error,  the interpreter stops and looks f
 ![Error objects](Images/error.png)
 
 
+* Reference Error: caused by variable that is not decalare or used out of the scope.
+* Range Error: it's happened when used number outside of the aacepted rangr.
+* Type Error: it's caused by trying to use function and object that aren't exist.
+* Syntax Error: it's happened when programmer hasn't follow the programm language rules.
+* NAN: when mathmatical operation using value isn't a number.
+
 #### How to deal with error?
 1. Debug and track the script to fix error
 2. Handle error gracefully. try, catch, throw and finally statements
