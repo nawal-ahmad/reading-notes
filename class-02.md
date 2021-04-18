@@ -26,7 +26,7 @@
     - `<s>` indicates something that is no longer accurate or relevant.
 
 
-### Chapter 10: Ch.10 “Introducing CSS”
+### Chapter 10: “Introducing CSS”
 
 ##### How to make your web pages more attractive?
 By controlling the design through using CSS.
