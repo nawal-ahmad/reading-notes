@@ -1,3 +1,5 @@
+# Chart.js, Canvas
+
 ## Charts
 
 - Displaying data visually than tables and have the added benefit.
@@ -18,7 +20,7 @@
 - `<canvas>` element create a fix-sized drawing surface expose rendering text.
 
 
-### Drawing shapes using canvas
+## Drawing shapes using canvas
 
 - `<canvas>` used to draw shapes like rectangles, triangles, lines and curves.
 
@@ -51,7 +53,7 @@
 - We can make a combination to draw many shapes by different paths and curves.
 
 
-### Applying styles
+## Applying styles
 
 - To apply colors to a shape there are two important properties we can use: fillStyle and strokeStyle.
 
@@ -63,7 +65,7 @@
 - Creat patterns createPattern(image, type) and specify the repetition.
 
 
-### Drawing and Styling texts
+## Drawing and Styling texts
 - fillText(text, x, y [, maxWidth])
 - strokeText(text, x, y [, maxWidth])
 - To edit font size, text-align, textBaseline and text's direction.
@@ -71,10 +73,11 @@
 
 References:
 
-#### References :
-[Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-[Chart.js docs](https://www.chartjs.org/docs/latest/)
-[Basic usage of canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-[Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
-[Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
-[Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+### References :
+
+- [Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- [Chart.js docs](https://www.chartjs.org/docs/latest/)
+- [Basic usage of canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+- [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+- [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
