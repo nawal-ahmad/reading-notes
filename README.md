@@ -31,4 +31,5 @@
 |class-09       |[Forms and Events](class-09.md)                                               |
 |class-10       |[JS Debugging](class-10.md)                                                   |
 |class-11       |[Assorted Topics](class-11.md)                                                |
-|class-12       |[Chart.js, Canvas](class-12.md)                                                |
+|class-12       |[Chart.js, Canvas](class-12.md)                                               |
+|class-13       |[Local Storage](class-13.md)                                                  |
