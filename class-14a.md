@@ -1,33 +1,139 @@
-## Google and the perfect team experience
+# CSS Transforms, Transitions, and Animations
 
-#### Things are imortant in the work environment depends on Google project Aristotle:
+## Transforms
+ways to control size, position and change elements.
 
-- Work together show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems.
+- The transform property coild be one of two different settings:
+  - two-dimensional 
+  - three-dimensional.
 
-- Studies show that people working in teams tend to achieve better results and report higher job satisfaction.
+**Transform Syntax**
+```````````````
+div {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}
+```````````````
+
+**2D Transforms**
+
+- Work in horizontal and vertical axes plane.
+
+ *2D Rotate*
+- ability to rotate element from 0 to 360 degrees.  
+- positive value clockwise and negativr value rotate counterclockwise.
+
+ *2D Scale*
+- change the appeared size of an element.
+- any `>1value>0`  makes element appera smaller,`value>=1` makes element appear larger.
+- scale x to scale width and scale y to scale height.
+
+*2D Translate*
+- Pushing and pulling element in different directions.
+- translateX change the horizontal position and translateY change the vertical position
+
+*2D Skew*
+- Used to distort elements on the horizontal axis vertical axis or both.
+
+- Sometimes we combining multiple transforms for the same elements.
+-  the default transform origin is the dead center of element both 50% horizontally and 50% vertically, to change default origin position we used the transform-origin property.
+- The perspective property used to give a 3D-positioned element some perspective,  it defines how far the object is away from the user
 
 
-**why some stumbled while others soared?**
+**3D Transforms**
 
-- Some groups ranked among Google’s most effective teams, were composed of friends who socialized outside work.
+- Three-dimensional transforms work on both the x and y axes, as well as the z axis,  control of depth, length and width.
 
-- Others were made up of people who were basically strangers away from the conference room. 
+*3D Rotate*
+- rotate element around any axis
 
-- Some groups sought strong managers. 
+*3D Scale*
+- scaled on the z axis.
 
-- Other group prefer a less hierarchical structure. 
+*3D Translate*
+- Push the element away (appear smaller) or puul it closer (appera larger)
 
-- The group’s norms typically override individual proclivities and encourage deference to the team.
+*3D Skew*
+- elements can't be skewed on z-axis.
 
-**what distinguished the ‘‘good’’ teams from the dysfunctional groups was how teammates treated one another?**
+- We can combine 3D transforms as we can do with 2D too.
+- three-dimensional transforms will be applied on element that is nested within a parent element.
+- The back face of an element is a mirror image of the front face being displayed.
 
- - Members spoke in roughly the same proportion, Second, the good teams all had high in the good teams.
- 
- - Good teams also have **average social sensitivity** where the members understand and feel each other.
- 
- - psychological safety important more than anything else and it's critical to make team work.
 
-  - **employee performance optimization** movement give a method for talking about our insecurities, fears and aspirations in more constructive ways, It also give us the tools to quickly teach lessons that once took managers decades to absorb.
+## Transitions & Animations
 
-  **Reference:**  
-  [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+**Ttansitions**
+- CSS transitions allows you to change property values smoothly, over a given duration when state change to active.
+
+- different states is by using the :hover, :focus, :active, and :target pseudo-classes.
+
+- four transition related properties:
+    - transition-property (colors, font, boreder, ..etc)
+    - transition-duration (s or ms)
+    - transition-timing-function: speed in which a transition will move (linear, ease-in, ease-out, and ease-in-out.)
+    -transition-delay: how long a transition should be stalled before executing
+```````````````
+.box {
+  background: #2db34a;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+.box:hover {
+  background: #ff7b29;
+}
+```````````````
+
+**Animation**
+
+- CSS animation lets element gradually change from style to another.
+
+- first we need to specify some keyframes for the animation.
+
+- The @keyframes rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
+
+- Animation name too assigned to an element.
+
+- Animations behave similarly to transitions. They include a duration, timing function and delay if desired. 
+
+- To have an animation repeat itself many times use the animation-iteration-count property.
+
+- To declare the direction an animation completes use the animation-direction property.
+
+- The animation-play-state property allows animation to be played or paused.
+
+- The animation-fill-mode property identifies how element should be styled. 
+
+- The animation-fill-mode property accepts four keyword values, including 
+    - none: not apply any styles
+    - forwards: keep the styles declared within the last specified keyframe.
+    - backwards: apply the styles within the first specified keyfram
+    - both: apply the behaviors from both the forwards and backwards values.
+
+## 8 simple CSS Trasitions Examples
+
+1. Fade in: by control capacity
+2. Change color
+3. Grow & Shrink by control width and height
+4. Rotate elements
+5. Square to circle by control the radius
+6. 3D shadow
+7. Swing by using @keyframes, animation 
+8. Inset border
+
+
+
+
+
+
+
+
+
+**Refrences:**
+- [Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+- [Transitions and Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+
+
