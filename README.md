@@ -33,3 +33,5 @@
 |class-11       |[Assorted Topics](class-11.md)                                                |
 |class-12       |[Chart.js, Canvas](class-12.md)                                               |
 |class-13       |[Local Storage](class-13.md)                                                  |
+|class-14-a     |[Google Team](class-14a.md)                                                   |
+|class-14-b     |[CSS Transforms, Transitions, and Animations](class-14b.md)                   |
