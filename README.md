@@ -1,7 +1,9 @@
 # reading-notes
 
 
-## This is Nawal Ahmad, I am a biomedical engineer, Recently I planned to make a career shift and entering software development world.
+## This is Nawal Ahmad, I am a biomedical engineer, I graduated from Jordan University of Science and Technolgy 7 years ago, after about five years of experience in the medical market I recently started planning to make a career shift and get into the software development world.
+
+<br />
 
 ### Code 102 Reading Notes: Intro to Software Development
 
@@ -15,6 +17,8 @@
 |read06         |[Design web pages with CSS](read06.md)         |
 
 
+<br />
+<br />
 
 ### Code 201 Reading Notes: Foundations of Software Development
 
@@ -37,6 +41,8 @@
 |read14b        |[Google Team](201/read14b.md)                                                   |
 
 
+<br />
+<br />
 
 ### Code 301 Reading Notes:Intermediate Software Development
 
