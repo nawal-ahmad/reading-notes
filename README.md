@@ -3,35 +3,43 @@
 
 ## This is Nawal Ahmad, I am a biomedical engineer, Recently I planned to make a career shift and entering software development world.
 
-### Code 102 Reading Notes:
+### Code 102 Reading Notes: Intro to Software Development
 
-|Assignment     | Link                   |
-|----------     | -----------------------|
-|read01         |[read01](read01.md)     |
-|read02         |[read02](read02.md)     |
-|read03         |[read03](read03.md)     |
-|read04         |[read04](read04.md)     |
-|read05         |[read05](read05.md)     |
-|read06         |[read06](read06.md)     |
+|Assignment     | Link                                          |
+|----------     | ----------------------------------------------|
+|read01         |[The Coder's Computer](read01.md)              |
+|read02         |[Learning Markdown](read02.md)                 |
+|read03         |[Structure web pages with HTML](read03.md)     |
+|read04         |[Programming with JavaScript](read04.md)       |
+|read05         |[Operators and Loops](read05.md)               |
+|read06         |[Design web pages with CSS](read06.md)         |
 
 
 
-### Code 201 Reading Notes:
+### Code 201 Reading Notes: Foundations of Software Development
 
-|Assignment     | Link                                                                         |
-|----------     | -----------------------------------------------------------------------------|
-|class-01       |[Introductory HTML and JavaScript](class-01.md)                               |
-|class-02       |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md) |
-|class-03       |[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)                         |
-|class-04       |[HTML Links, CSS Layout, JS Functions](class-04.md)                           |
-|class-05       |[HTML Images; CSS Color & Text](class-05.md)                                  |
-|class-06       |[JS Object Literals; The DOM](class-06.md)                                    |
-|class-07       |[HTML Tables; JS Constructor Functions](class-07.md)                          |
-|class-08       |[More CSS Layout](class-08.md)                                                |
-|class-09       |[Forms and Events](class-09.md)                                               |
-|class-10       |[JS Debugging](class-10.md)                                                   |
-|class-11       |[Assorted Topics](class-11.md)                                                |
-|class-12       |[Chart.js, Canvas](class-12.md)                                               |
-|class-13       |[Local Storage](class-13.md)                                                  |
-|class-14-a     |[CSS Transforms, Transitions, and Animations](class-14b.md)                   |
-|class-14-b     |[Google Team](class-14b.md)                                                   |
+|Assignment     | Link                                                                           |
+|----------     | -------------------------------------------------------------------------------|
+|read01         |[Introductory HTML and JavaScript](201/read01.md)                               |
+|read02         |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/read02.md) |
+|read03         |[HTML Lists, CSS Boxes, JS Control Flow](201/read03.md)                         |
+|read04         |[HTML Links, CSS Layout, JS Functions](201/read04.md)                           |
+|read05         |[HTML Images; CSS Color & Text](201/read05.md)                                  |
+|read06         |[JS Object Literals; The DOM](201/read06.md)                                    |
+|read07         |[HTML Tables; JS Constructor Functions](201/read07.md)                          |
+|read08         |[More CSS Layout](201/read08.md)                                                |
+|read09         |[Forms and Events](201/read09.md)                                               |
+|read10         |[JS Debugging](201/read10.md)                                                   |
+|read11         |[Assorted Topics](201/read11.md)                                                |
+|read12         |[Chart.js, Canvas](201/read12.md)                                               |
+|read13         |[Local Storage](201/read13.md)                                                  |
+|read14a        |[CSS Transforms, Transitions, and Animations](201/read14a.md)                   |
+|read14b        |[Google Team](201/read14b.md)                                                   |
+
+
+
+### Code 301 Reading Notes:Intermediate Software Development
+
+|Assignment     | Link                                                                           |
+|----------     | -------------------------------------------------------------------------------|
+|read01         |[read01](301/read01.md)                                                         |
