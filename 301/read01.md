@@ -38,6 +38,12 @@ The flow is a uni-directional flow (in one way down from parent to child).
  
  <br />
 
+## Things I want to know more about
+How to actually use react and reactDom. Learn more about JSX and rendering.
+
+ <br />
+
+
 ## Refrences
 [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) 
 <br />
