@@ -81,14 +81,14 @@ He create a functions where the state going to change.
 
 - In your own words, what does the increment function do?
 
-Update the state count according to the name
+Update the state count according to the change in counts.
 
 - How can you pass a method from a parent component into a child component?
 
 Declared a prop in parent with a function then call it in the child.
 
 - How does the child component invoke a method that was passed to it from a parent component?
-By accesing the prop that have a function value which passed from the parent `this.props.name`
+By accessing the prop that have a function value which passed from the parent `this.props.name`
 
 
 
