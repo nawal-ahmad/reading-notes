@@ -35,10 +35,11 @@ to simplify the code and make it easier to read that. The ternary operator is co
 <br/>
 
     using if condition:
+    
  ````````````````````````````````````````````
  x==y ?console.log(true):console.log(false);
  ````````````````````````````````````````````
- 
+
 <br/>
 # References: 
  
