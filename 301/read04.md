@@ -34,7 +34,7 @@ to simplify the code and make it easier to read that. The ternary operator is co
 
 <br/>
 
-    using if condition:
+    using Ternary operator:
     
  ````````````````````````````````````````````
  x==y ?console.log(true):console.log(false);
