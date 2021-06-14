@@ -51,3 +51,4 @@
 | read04     | [React and Forms](301/read04.md)                      |
 | read05     | [Thinking in React](301/read05.md)                    |
 | read06     | [NODE.JS](301/read06.md)                              |
+| read06     | [REST](301/read07.md)                                 |
