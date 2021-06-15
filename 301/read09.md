@@ -18,8 +18,7 @@
      <br/>
 
 - What is immutability?
-  To say a code is immutable, to mean that it is unchanged or unable to change.
-  When data is immutable, its state cannot change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value.
+  To say a code is immutable, to mean that it is unchanged or unable to change. When data is immutable, its state cannot change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value.
   <br/>
 
 - What is Referential transparency?
@@ -49,7 +48,7 @@
   1. First, inside count.js we have to specify the function to use outside, so we write in its global scope the following:
      `module.export counter`
   2. After that, inside app.js, assign the function of count.js in a variable with the use of require:
-     const doIT = require('counter')
+     `const counter = require('\path')`
   3. Now we can use the function inside app.js.
 
   <br/>
