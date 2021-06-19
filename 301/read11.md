@@ -4,13 +4,13 @@
 
 **What is OAuth?**
 
-    **OAuth** is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow authenticated access to their assets without actually sharing the initial, related, single logon credential. In authentication parlance, this is known as secure, third-party, user-agent, delegated authorization.
+**OAuth** is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow authenticated access to their assets without actually sharing the initial, related, single logon credential. In authentication parlance, this is known as secure, third-party, user-agent, delegated authorization.
 
 <br/>
 
 **Give an example of what using OAuth would look like.**
 
-    For example, when creating a new account at **GitHub**, you have many options to how one want to create an account, and mostly people choose their same email address. This email address might also be used on **facebook**, **amazon** and many applications and services.
+For example, when creating a new account at **GitHub**, you have many options to how one want to create an account, and mostly people choose their same email address. This email address might also be used on **facebook**, **amazon** and many applications and services.
 
 <br/>
 
