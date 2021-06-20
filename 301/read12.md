@@ -51,9 +51,12 @@ SQL NoSQL
   <br/>
 
 - How does it work?
-  <br/>
+  there is a documents, they look like JSON. and don’t have to use the same schema you can have multiple documents in one collection which have different fields.
+
+<br/>
 
 - What is inside of a Mongo database?
+  different documents in one and the same collection.
 
 <br/>
 
