@@ -4,34 +4,30 @@
 
 - In your own words, describe what each group of status code represents:
 
-```
 - 100’s = Informational status codes, the header part of the request has been received, but it won't success.
-- 200’s = Success codes. meaning  it will respond with what the user asked.
-- 300’s =  Redirection codes. They tell the client that the resource they are requesting isn’t available at the expected location anymore.
+- 200’s = Success codes. meaning it will respond with what the user asked.
+- 300’s = Redirection codes. They tell the client that the resource they are requesting isn’t available at the expected location anymore.
 - 400’s = Error codes. They happen when the user send invalid request like timeouts, wrong URI, missing authentication, etc.
 - 500’s = Server error codes. Most of the times the happen due to problems in the server, but they can happen also, from the user end, if the user trigger a special error during request. These errors can be temporary or permanent.
-```
 
 <br/>
 
 - What is a status code 202?
 
-```
 This status code can occur during many HTTP methods or be used in many situations like:
 
--  `POST()` : When trying to create an action, and it is accepted this code appears.
+- `POST()` : When trying to create an action, and it is accepted this code appears.
 
 - `PUT()` or `PATCH()` : When trying to make an update, and If the update is done asynchronous, this code can be used. It should include an URL to access the updated resource or an URL to check if the update has been succeeded. It can also include an estimation of how long the update will take.
 
 - `DELETE()` : When using delete action. If the deletion is asynchronous and takes some time, which is the case in distributed systems, it can be appropriate to return this code with some information or URL to tell the client when it will be deleted.
-```
 
 <br/>
 
 - What is a status code 308?
 
-```
 This status code can occur during many HTTP methods or be used in many situations like:
+
 - `GET()` : When trying to read data, it tells the client to use another URL to access the resource and not use the current URL anymore. It’s helpful when we have multiple endpoints for one resource, but don’t want to implement reading from all of them.
 
 - API change : This is the right code if the resource will now be available at a new URL and the client should directly access it via the new URL in the future. The current endpoint can’t control the clients’ behavior after the request and a subsequent redirect if the resource URL changes again have to be issued from the new URL.
@@ -39,7 +35,6 @@ This status code can occur during many HTTP methods or be used in many situation
 - Multiple Endpoints for One Resource : If we have nested resources `/user/kay/comments/456` and `/posts/123/comments/456`; and a root resource `/comments/456` it can make things easier to simply issue 308 redirects at the nested resources with the Location header field pointed to the root resource so not every endpoint needs a delivery implementation. This should only be done for `GET` requests.
 
 - Wrong URL: If the URL the user used is wrong. This would be the right code if we know that a resource has moved to a different URL and we can tell the client about it.
-```
 
 <br/>
 
