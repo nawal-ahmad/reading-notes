@@ -43,18 +43,19 @@
 
 ### Code 301 Reading Notes:Intermediate Software Development
 
-| Assignment | Link                                                  |
-| ---------- | ----------------------------------------------------- |
-| read01     | [Introduction to React and Components](301/read01.md) |
-| read02     | [State and Props](301/read02.md)                      |
-| read03     | [Passing Functions as Props](301/read03.md)           |
-| read04     | [React and Forms](301/read04.md)                      |
-| read05     | [Thinking in React](301/read05.md)                    |
-| read06     | [NODE.JS](301/read06.md)                              |
-| read07     | [REST](301/read07.md)                                 |
-| read08     | [APIs](301/read08.md)                                 |
-| read09     | [FUNCTIONAL PROGRAMMING](301/read09.md)               |
-| read10     | [In memory storage](301/read10.md)                    |
-| read11     | [Authentication](301/read11.md)                       |
-| read12     | [Mongo and Mongoose](301/read12.md)                   |
-| read13     | [CRUD](301/read13.md)                                 |
+| Assignment | Link                                                        |
+| ---------- | ----------------------------------------------------------- |
+| read01     | [Introduction to React and Components](301/read01.md)       |
+| read02     | [State and Props](301/read02.md)                            |
+| read03     | [Passing Functions as Props](301/read03.md)                 |
+| read04     | [React and Forms](301/read04.md)                            |
+| read05     | [Thinking in React](301/read05.md)                          |
+| read06     | [NODE.JS](301/read06.md)                                    |
+| read07     | [REST](301/read07.md)                                       |
+| read08     | [APIs](301/read08.md)                                       |
+| read09     | [FUNCTIONAL PROGRAMMING](301/read09.md)                     |
+| read10     | [In memory storage](301/read10.md)                          |
+| read11     | [Authentication](301/read11.md)                             |
+| read12     | [Mongo and Mongoose](301/read12.md)                         |
+| read13     | [CRUD](301/read13.md)                                       |
+| read14     | [Diversity & Inclusion in the Tech Industry](301/read14.md) |
