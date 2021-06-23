@@ -59,3 +59,4 @@
 | read12     | [Mongo and Mongoose](301/read12.md)                         |
 | read13     | [CRUD](301/read13.md)                                       |
 | read14     | [Diversity & Inclusion in the Tech Industry](301/read14.md) |
+| read15     | [LOL!](301/read15.md)                                       |
