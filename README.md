@@ -1,6 +1,6 @@
-# reading-notes
+# Reading Notes
 
-## This is Nawal Ahmad, I am a biomedical engineer, I graduated from Jordan University of Science and Technolgy 7 years ago, after about five years of experience in the medical market I recently started planning to make a career shift and get into the software development world.
+On this is web page you will find the reading notes I have compiled while attending ASAC software development course, powered by Code Fellows Academy.
 
 <br />
 
