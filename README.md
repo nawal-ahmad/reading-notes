@@ -65,15 +65,14 @@ On this is web page you will find the reading notes I have compiled while attend
 
 ### Code 401 - Advanced Software Development
 
-| Assignment | Link                    |
-| ---------- | ----------------------- |
-| read01     | [read01](401/read01.md) |
-
-| read02 | [Testing and Modules](401/read02.md) |
+| Assignment | Link                                 |
+| ---------- | ------------------------------------ |
+| read01     | [read01](401/read01.md)              |
+| read02     | [Testing and Modules](401/read02.md) |
+| read03     | [FileIO & Exceptions](401/read03.md) |
 
 <!--
 
-| read03     | [](401/read03.md) |
 | read04     | [](401/read04.md) |
 | read05     | [](401/read05.md) |
 | read06     | [](401/read06.md) |
