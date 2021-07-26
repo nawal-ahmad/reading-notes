@@ -45,7 +45,7 @@ Some basic scenarios of reading and writing files
 - Exception Errors:
   > occurs whenever syntactically correct Python code results in an error.
 
-##### Raising an Exception
+#### Raising an Exception
 
 raise allows you to throw an exception at any time.
 
@@ -60,14 +60,14 @@ Exception: x should not exceed 5. The value of x was: 10
 
 ```
 
-##### The AssertionError Exception
+#### The AssertionError Exception
 
 - Assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
 
 - Instead of waiting a program to crash midway, We assert that a certain condition is met.
   If this condition true then the program can continue. If the condition False, the program will throw an AssertionError exception.
 
-##### Handling Exceptions Through try and except Block
+#### Handling Exceptions Through try and except Block
 
 - > In the try clause, all statements are executed until an exception is encountered.
 - > except is used to catch and handle the exception(s) that are encountered in the try clause.
@@ -82,7 +82,7 @@ except
     pass
 ```
 
-##### The else Clause
+#### The else Clause
 
 Execute a certain block of code only in the absence of exceptions.
 
