@@ -70,8 +70,10 @@
 | ---------- | ----------------------- |
 | read01     | [read01](401/read01.md) |
 
+| read02 | [Testing and Modules](401/read02.md) |
+
 <!--
-| read02     | [](401/read02.md) |
+
 | read03     | [](401/read03.md) |
 | read04     | [](401/read04.md) |
 | read05     | [](401/read05.md) |
