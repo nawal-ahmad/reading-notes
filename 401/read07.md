@@ -30,7 +30,8 @@
 
 - Example:
 ```
-counter = 0 # A global name … def update_counter(): … global counter # Declare counter as global … counter = counter + 1 # Successfully update the counter
+counter = 0 # A global name … def update_counter(): … global counter 
+# Declare counter as global … counter = counter + 1 # Successfully update the counter
 global_counter = 0 # A global name … def update_counter(counter): … return counter + 1 # Rely on a local name
 ```
 - UnboundLocalError an error that is shown when trying to access a variable that is not defined in a certain scope.
