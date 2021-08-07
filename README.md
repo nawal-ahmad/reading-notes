@@ -77,9 +77,8 @@ On this is web page you will find the reading notes I have compiled while attend
 | read08     | [Game of Greed 3](401/read08.md)     |
 | read09     | [Game of Greed 4](401/read09.md)     |
 | read10     | [Game of Greed IV](401/read10.md)    |
+| read11     | [Data Analysis](401/read11.md)       |
 <!--
-
-| read11     | [](401/read11.md) |
 | read12     | [](401/read12.md) |
 | read13     | [](401/read13.md) |
 | read14     | [](401/read14.md) |
