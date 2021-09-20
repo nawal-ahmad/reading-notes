@@ -63,7 +63,53 @@ On this is web page you will find the reading notes I have compiled while attend
 <br />
 <br />
 
+
 ### Code 401 - Advanced Software Development in Java
 
 | Assignment | Link                                 |
 | ---------- | ------------------------------------ |
+<!-- 
+| read01     | [](401/read01.md) |
+| read02     | [](401/read02.md) |
+| read03     | [](401/read03.md) |
+| read04     | [](401/read04.md) |
+| read05     | [](401/read05.md) |
+| read06     | [](401/read06.md) |   
+| read07     | [](401/read07.md) |
+| read08     | [](401/read08.md) |
+| read09     | [](401/read09.md) |
+| read10     | [](401/read10.md) |
+| read11     | [](401/read11.md) |
+| read12     | [](401/read12.md) |
+| read13     | [](401/read13.md) |
+| read14     | [](401/read14.md) |
+| read15     | [](401/read15.md) |
+| read16     | [](401/read16.md) |
+| read17     | [](401/read17.md) |
+| read18     | [](401/read18.md) |
+| read19     | [](401/read19.md) |
+| read20     | [](401/read20.md) |
+| read21     | [](401/read21.md) |
+| read22     | [](401/read22.md) |
+| read23     | [](401/read23.md) |
+| read24     | [](401/read24.md) |
+| read25     | [](401/read25.md) |
+| read26     | [](401/read26.md) |
+| read27     | [](401/read27.md) |
+| read28     | [](401/read28.md) |
+| read29     | [](401/read29.md) |
+| read30     | [](401/read30.md) |
+| read31     | [](401/read31.md) |
+| read32     | [](401/read32.md) |
+| read33     | [](401/read33.md) |
+| read34     | [](401/read34.md) |
+| read35     | [](401/read35.md) |
+| read36     | [](401/read36.md) |
+| read37     | [](401/read37.md) |
+| read38     | [](401/read38.md) |
+| read39     | [](401/read39.md) |
+| read40     | [](401/read40.md) |
+| read41     | [](401/read41.md) |
+| read42     | [](401/read42.md) |
+| read43     | [](401/read43.md) |
+| read44     | [](401/read44.md) | -->
