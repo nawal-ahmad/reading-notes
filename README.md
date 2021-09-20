@@ -63,54 +63,7 @@ On this is web page you will find the reading notes I have compiled while attend
 <br />
 <br />
 
-### Code 401 - Advanced Software Development
+### Code 401 - Advanced Software Development in Java
 
 | Assignment | Link                                 |
 | ---------- | ------------------------------------ |
-| read01     | [read01](401/read01.md)              |
-| read02     | [Testing and Modules](401/read02.md) |
-| read03     | [FileIO & Exceptions](401/read03.md) |
-| read04     | [Classes and Objects](401/read04.md) |
-| read05     | [Linked Lists](401/read05.md)        |
-| read06     | [Game of Greed 1](401/read06.md)     |   
-| read07     | [Game of Greed 2](401/read07.md)     |
-| read08     | [Game of Greed 3](401/read08.md)     |
-| read09     | [Game of Greed 4](401/read09.md)     |
-| read10     | [Game of Greed IV](401/read10.md)    |
-| read11     | [Data Analysis](401/read11.md)       |
-| read12     | [Pandas in 10](401/read12.md)        |
-| read13     | [Linear Regressions](401/read13.md)  |
-| read14     | [Data Visualization](401/read14.md)  |
-<!--
-
-| read15     | [](401/read15.md) |
-| read16     | [](401/read16.md) |
-| read17     | [](401/read17.md) |
-| read18     | [](401/read18.md) |
-| read19     | [](401/read19.md) |
-| read20     | [](401/read20.md) |
-| read21     | [](401/read21.md) |
-| read22     | [](401/read22.md) |
-| read23     | [](401/read23.md) |
-| read24     | [](401/read24.md) |
-| read25     | [](401/read25.md) |
-| read26     | [](401/read26.md) |
-| read27     | [](401/read27.md) |
-| read28     | [](401/read28.md) |
-| read29     | [](401/read29.md) |
-| read30     | [](401/read30.md) |
-| read31     | [](401/read31.md) |
-| read32     | [](401/read32.md) |
-| read33     | [](401/read33.md) |
-| read34     | [](401/read34.md) |
-| read35     | [](401/read35.md) |
-| read36     | [](401/read36.md) |
-| read37     | [](401/read37.md) |
-| read38     | [](401/read38.md) |
-| read39     | [](401/read39.md) |
-| read40     | [](401/read40.md) |
-| read41     | [](401/read41.md) |
-| read42     | [](401/read42.md) |
-| read43     | [](401/read43.md) |
-| read44     | [](401/read44.md) |
--->
