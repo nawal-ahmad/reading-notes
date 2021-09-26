@@ -68,9 +68,10 @@ On this is web page you will find the reading notes I have compiled while attend
 
 | Assignment | Link                                 |
 | ---------- | ------------------------------------ |
+| read01     | [Java Basics](401/read01.md) |
+| read02     | [Arrays, Loops, Imports](401/read02.md) |
 <!-- 
-| read01     | [](401/read01.md) |
-| read02     | [](401/read02.md) |
+
 | read03     | [](401/read03.md) |
 | read04     | [](401/read04.md) |
 | read05     | [](401/read05.md) |
