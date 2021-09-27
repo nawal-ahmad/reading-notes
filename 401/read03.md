@@ -44,8 +44,8 @@
 
 - An exception: is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions.
 
-![Call Stack](/401/img/call-stack.png)
-![searching for exception](/401/img/searching-for-exception.png)
+![Call Stack](img/cal-stack.png)
+![searching for exception](img/searching-for-exception.png)
 
 - Exception object: created when an error occurs whithin a method, and contains information about the error, including its type and the state of the program when the error occur.
 
