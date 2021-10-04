@@ -75,10 +75,10 @@ On this is web page you will find the reading notes I have compiled while attend
 
 | read05     | [Linked Lists](401/read05.md) |
 | read06     | [Inheritance and Interfaces](401/read06.md) |   
+
+| read08     | [OO Design](401/read08.md) |
 <!-- 
 
-| read07     | [](401/read07.md) |
-| read08     | [](401/read08.md) |
 | read09     | [](401/read09.md) |
 | read10     | [](401/read10.md) |
 | read11     | [](401/read11.md) |
