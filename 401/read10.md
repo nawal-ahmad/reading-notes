@@ -22,12 +22,12 @@ This means that the first item added in the stack will be the last item popped o
 - LIFO *Last In First Out*
 This means that the last item added to the stack will be the first item popped out of the stack.
 
-![pop-push](/401/img/Push-Pop.png)
+![pop-push](img/Push-Pop.png)
 
 ### Push O(1)
 Pushing a Node onto a stack will always be an O(1) operation
 
-![push](/401/img/push.jpg)
+![push](img/push.jpg)
 
 ```
     ALOGORITHM push(value)
