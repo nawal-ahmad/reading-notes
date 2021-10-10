@@ -66,21 +66,20 @@ On this is web page you will find the reading notes I have compiled while attend
 
 ### Code 401 - Advanced Software Development in Java
 
-| Assignment | Link                                         |
-| ---------- | ---------------------------------------------|
-| read01     | [Java Basics](401/read01.md)                 |
-| read02     | [Arrays, Loops, Imports](401/read02.md)      |
-| read03     | [Maps, primitives, File I/O](401/read03.md)  |
-| read04     | [OOP](401/read04.md)                         |
-| read05     | [Linked Lists](401/read05.md)                |
-| read06     | [Inheritance and Interfaces](401/read06.md)  |   
-| read08     | [OO Design](401/read08.md)                   |
-| read09     | [WRRC and Java](401/read09.md)               |
-| read10     | [Stacks & Queues](401/read10.md)             |
-| read11     | [Spring](401/read11.md)                      |
+| Assignment | Link                                                   |
+| ---------- | -------------------------------------------------------|
+| read01     | [Java Basics](401/read01.md)                           |
+| read02     | [Arrays, Loops, Imports](401/read02.md)                |
+| read03     | [Maps, primitives, File I/O](401/read03.md)            |
+| read04     | [OOP](401/read04.md)                                   |
+| read05     | [Linked Lists](401/read05.md)                          |
+| read06     | [Inheritance and Interfaces](401/read06.md)            |   
+| read08     | [OO Design](401/read08.md)                             |
+| read09     | [WRRC and Java](401/read09.md)                         | 
+| read10     | [Stacks & Queues](401/read10.md)                       |
+| read11     | [Spring](401/read11.md)                                |
+| read12     | [Spring RESTful Routing & Static Files](401/read12.md) |
 <!-- 
-
-| read12     | [](401/read12.md) |
 | read13     | [](401/read13.md) |
 | read14     | [](401/read14.md) |
 | read15     | [](401/read15.md) |
