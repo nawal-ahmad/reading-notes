@@ -79,8 +79,9 @@ On this is web page you will find the reading notes I have compiled while attend
 | read10     | [Stacks & Queues](401/read10.md)                       |
 | read11     | [Spring](401/read11.md)                                |
 | read12     | [Spring RESTful Routing & Static Files](401/read12.md) |
+| read13     | [Related Resources and Integration Testing](401/read13.md) |
 <!-- 
-| read13     | [](401/read13.md) |
+
 | read14     | [](401/read14.md) |
 | read15     | [](401/read15.md) |
 | read16     | [](401/read16.md) |
