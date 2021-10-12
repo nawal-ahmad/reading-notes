@@ -30,7 +30,7 @@ Traversing a tree allows us to search for a node, print out the contents of a tr
 
 2. Breadth First: iterates through the tree by going through each level of the tree node-by-node.
 
-![traversal](hhttps://media.geeksforgeeks.org/wp-content/cdn-uploads/Preorder-from-Inorder-and-Postorder-traversals.jpg)
+![traversal](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Preorder-from-Inorder-and-Postorder-traversals.jpg)
 
 
 **K-ary Trees**
