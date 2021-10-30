@@ -85,30 +85,4 @@ On this is web page you will find the reading notes I have compiled while attend
 | read17     | [Spring Authorization](401/read17.md) |
 | read18     | [Web App Security](401/read18.md) |
 | read19     | [Spring and Sockets](401/read19.md) |
-<!-- 
-
-| read20     | [](401/read20.md) |
-| read21     | [](401/read21.md) |
-| read22     | [](401/read22.md) |
-| read23     | [](401/read23.md) |
-| read24     | [](401/read24.md) |
-| read25     | [](401/read25.md) |
-| read26     | [](401/read26.md) |
-| read27     | [](401/read27.md) |
-| read28     | [](401/read28.md) |
-| read29     | [](401/read29.md) |
-| read30     | [](401/read30.md) |
-| read31     | [](401/read31.md) |
-| read32     | [](401/read32.md) |
-| read33     | [](401/read33.md) |
-| read34     | [](401/read34.md) |
-| read35     | [](401/read35.md) |
-| read36     | [](401/read36.md) |
-| read37     | [](401/read37.md) |
-| read38     | [](401/read38.md) |
-| read39     | [](401/read39.md) |
-| read40     | [](401/read40.md) |
-| read41     | [](401/read41.md) |
-| read42     | [](401/read42.md) |
-| read43     | [](401/read43.md) |
-| read44     | [](401/read44.md) | -->
+| read26     | [Android Fundamentals](401/read26.md) |
