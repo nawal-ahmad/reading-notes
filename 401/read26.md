@@ -44,3 +44,4 @@ manifest file can declare an activity as follows:
         ...
     </application>
 </manifest>
+```
