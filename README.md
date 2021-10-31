@@ -86,3 +86,4 @@ On this is web page you will find the reading notes I have compiled while attend
 | read18     | [Web App Security](401/read18.md) |
 | read19     | [Spring and Sockets](401/read19.md) |
 | read26     | [Android Fundamentals](401/read26.md) |
+| read27     | [Android Tasks and the Back Stack](401/read27.md) |
