@@ -88,5 +88,7 @@ On this is web page you will find the reading notes I have compiled while attend
 | read26     | [Android Fundamentals](401/read26.md) |
 | read27     | [Android Tasks and the Back Stack](401/read27.md) |
 | read28     | [RecyclerView](401/read28.md) |
+| read29     | [Room](401/read29.md) |
+| read30     | [Hash Tables](401/read30.md) |
 
 
