@@ -91,5 +91,6 @@ On this is web page you will find the reading notes I have compiled while attend
 | read29     | [Room](401/read29.md) |
 | read30     | [Hash Tables](401/read30.md) |
 | read31     | [Espresso](401/read31.md) |
+| read32     | [Serverless and Amplify](401/read32.md) |
 
 
