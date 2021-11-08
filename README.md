@@ -92,5 +92,9 @@ On this is web page you will find the reading notes I have compiled while attend
 | read30     | [Hash Tables](401/read30.md) |
 | read31     | [Espresso](401/read31.md) |
 | read32     | [Serverless and Amplify](401/read32.md) |
+| read33     | [GraphQL @connection](401/read33.md) |
+
+
+
 
 
