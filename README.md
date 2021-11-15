@@ -97,3 +97,5 @@ On this is web page you will find the reading notes I have compiled while attend
 | read35     | [Graphs](401/read35.md) |
 | read36     | [Cognito](401/read36.md) |
 | read37     | [S3](401/read37.md) |
+| read38     | [Notifications](401/read38.md) |
+
