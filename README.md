@@ -98,4 +98,4 @@ On this is web page you will find the reading notes I have compiled while attend
 | read36     | [Cognito](401/read36.md) |
 | read37     | [S3](401/read37.md) |
 | read38     | [Notifications](401/read38.md) |
-
+| read39     | [Kinesis](401/read39.md) |
