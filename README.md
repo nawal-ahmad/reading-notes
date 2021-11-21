@@ -100,4 +100,9 @@ On this is web page you will find the reading notes I have compiled while attend
 | read38     | [Notifications](401/read38.md) |
 | read39     | [Kinesis](401/read39.md) |
 | read41     | [Intent Filters](401/read41.md) |
+| read42-a   | [Location](401/read42-a.md) |
+| read42-b   | [Ethics in Tech](401/read42-b.md) |
+| read43-a   | [Kinesis & Analytics](401/read43-a.md) |
+| read43-b   | [OSS Contributions](401/read43-b.md) |
+
 
